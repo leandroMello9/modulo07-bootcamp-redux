@@ -7,6 +7,7 @@ import {Provider} from 'react-redux';
 import Routes from './routes';
 import GlobalSytle from './styles/globals';
 import Header from './components/Header'
+import './config/ReactotronConfig';
 import store from './store/index'
 
 
